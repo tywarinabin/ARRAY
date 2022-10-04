@@ -1,7 +1,7 @@
 /*
 
 
-
+..>
     The password will only be Valid if it follow following conditions:  
      a .    Any one character must be Uppercase 
      b.     Any one character must be Lower Case.
